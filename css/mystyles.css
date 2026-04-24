@@ -1,0 +1,35 @@
+.bg-primary{
+    background-color: #343434 !important;
+    background-image: url("../assets/img/diamond-upholstery.png");
+}
+
+.social-icons .social-icon:hover{
+    background-color: #dfb611;
+}
+
+.text-primary{
+    color: #dfb611 !important;
+}
+
+a{
+    color: #dfb611;
+}
+
+h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1{
+    font-style: normal;
+}
+
+h1, .h1{
+    font-weight: 600;
+}
+
+h2, .h2{
+    font-weight: 400;
+}
+
+.subheading{
+    font-family: "Noto Sans TC", sans-serif;
+    font-weight: 300;
+    text-transform: none;
+}
+   
